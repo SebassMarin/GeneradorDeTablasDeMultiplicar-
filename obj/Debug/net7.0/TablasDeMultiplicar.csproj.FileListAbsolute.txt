@@ -1,0 +1,14 @@
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\bin\Debug\net7.0\TablasDeMultiplicar.exe
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\bin\Debug\net7.0\TablasDeMultiplicar.deps.json
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\bin\Debug\net7.0\TablasDeMultiplicar.runtimeconfig.json
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\bin\Debug\net7.0\TablasDeMultiplicar.dll
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\bin\Debug\net7.0\TablasDeMultiplicar.pdb
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\obj\Debug\net7.0\TablasDeMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\obj\Debug\net7.0\TablasDeMultiplicar.AssemblyInfoInputs.cache
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\obj\Debug\net7.0\TablasDeMultiplicar.AssemblyInfo.cs
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\obj\Debug\net7.0\TablasDeMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\obj\Debug\net7.0\TablasDeMultiplicar.dll
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\obj\Debug\net7.0\refint\TablasDeMultiplicar.dll
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\obj\Debug\net7.0\TablasDeMultiplicar.pdb
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\obj\Debug\net7.0\TablasDeMultiplicar.genruntimeconfig.cache
+C:\Users\Sebastian Cuello\Desktop\projects\TablasDeMultiplicar\obj\Debug\net7.0\ref\TablasDeMultiplicar.dll
